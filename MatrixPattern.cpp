@@ -89,8 +89,8 @@ int main()
 
     }
     //prints middle elem
-    resMat[N/2][N/2]=mat[N/2][N/2];
-    sum+=mat[N/2][N/2];
+         resMat[N/2][N/2]=mat[N/2][N/2];
+         sum+=mat[N/2][N/2];
  
         //prints top elem
         resMat[0][N/2]=mat[0][N/2];
@@ -106,8 +106,10 @@ int main()
         cout << endl;
     }
         cout << endl;
-
+    
+    //prints Sum of elements
     cout<<"The Sum of Elements is: "<<sum;
 
     return 0;
 }
+
