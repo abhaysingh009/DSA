@@ -1,4 +1,4 @@
-This program generates a square matrix of size N × N (filled with numbers 1 to N×N in row-major order) and prints a chosen pattern (Z, D, A, or X) using the matrix values.
+This program generates a square matrix of size N × N (filled with numbers 1 to N×N in row-major order) and prints a chosen pattern (A, D, X, or Z) using the matrix values.
 
 Non-pattern positions are replaced with 0.
 
