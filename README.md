@@ -16,7 +16,8 @@ others are 0.
 Examples:
 1.Input-
 
-Enter the Size of Matrix: 5
+Enter the Size of Matrix: 5 
+
 Enter Pattern: Z
 
 
@@ -33,6 +34,7 @@ The Sum of Elements is: 120
 2.Input-
 
 Enter the Size of Matrix: 5
+
 Enter Pattern: X
 
 
@@ -50,6 +52,7 @@ The Sum of Elements is: 65
 3.Input-
 
 Enter the Size of Matrix: 5
+
 Enter Pattern: A
 
 
@@ -67,6 +70,7 @@ The Sum of Elements is: 120
 4.Input-
 
 Enter the Size of Matrix: 5
+
 Enter Pattern: D
 
 
