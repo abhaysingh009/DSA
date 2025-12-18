@@ -1,32 +1,36 @@
-# 📚 College Assignments Programming
 
-This repository contains my **college assignments**, **practice questions**, and **problem sets** provided by my faculty during the course of my academic studies.
+# 💻 College Coding Assignments & Practice
 
-The purpose of this repository is to:
-- Organize academic work in one place
-- Maintain a digital record of assignments
-- Revise important questions for exams
-- Track my academic progress semester-wise
+This repository contains my **coding-related college assignments**, **lab programs**, and **practice questions** given by my faculty during my academic coursework.
 
----
+The goal of this repository is to:
+- Organize coding assignments subject-wise
+- Practice and improve programming skills
+- Maintain a structured record of academic coding work
+- Revise important programs for exams and labs
 
-## 🏫 Contents
-- Subject-wise assignments
-- Faculty-given practice questions
-- Lab work & coding assignments
-- Class tests / worksheet problems
-- Important questions for exams
 
 ---
 
-## 🧠 Subjects Covered
-- Programming (C / C++ / Java)
-- Data Structures & Algorithms
+## 🎯 Purpose
+This repository is created for:
+- Academic coding practice
+- Lab and assignment revision
+- Strengthening core programming concepts
+- Personal learning and improvement
+
+⚠️ **Note:**  
+All code is written as part of my academic coursework and follows college submission guidelines.  
+This repository is intended for **educational use only**.
+
 ---
 
-## 💻 Languages & Tools Used
-- C
-- C++
-- Java
+## 🔄 Updates
+The repository will be updated regularly with new assignments and faculty-provided coding questions.
 
 ---
+
+## ⭐ Final Note
+Maintaining this repository helps me stay consistent, organized, and disciplined in my coding journey.
+
+Happy Coding! 🚀
