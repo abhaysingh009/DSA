@@ -1,4 +1,4 @@
-# 📚 College Assignments DSA
+# 📚 College Assignments Programming
 
 This repository contains my **college assignments**, **practice questions**, and **problem sets** provided by my faculty during the course of my academic studies.
 
